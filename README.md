@@ -1,3 +1,3 @@
-- I like: Go, Nix, Linux, the CLI and all things in terminal.
+- I like: Go, Nix, Linux, the CLI and all things terminal.
 - I have worked with: Java, C#, TypeScript and Dart.
 - I want to learn: C, Swift and maybe Rust.
