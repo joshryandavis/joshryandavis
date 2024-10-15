@@ -1,3 +1,1 @@
-- I'm interested in: Go, Nix, Linux, Unix and command-line interfaces.
-- I have worked with: Java, C#, TypeScript, Python and Dart.
-- I want to learn: C, Swift and maybe Rust.
+
